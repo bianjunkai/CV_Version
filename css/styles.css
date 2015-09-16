@@ -1198,5 +1198,19 @@ span.experiece-p{
     color: #e2001a;
 }
 
+#Projects .textBox{
+    background-color: #f0f0f0;
+    padding: 5px;
+}
+
+#Projects .textHead{
+    background: #fff;
+    padding: 20px 10px;
+}
+
+#Projects .textHead .fa{
+    color: #5E5E5E;
+}
+
 
 
